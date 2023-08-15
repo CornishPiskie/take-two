@@ -33,7 +33,7 @@ const appConfig = {
    * This app's primary color.
    * @see {@link https://github.com/wpengine/atlas-blueprint-portfolio/blob/main/src/components/ThemeStyles/ThemeStyles.js}
    */
-  themeColor: 'blue',
+  themeColor: 'red',
 
   /**
    * @type {[key: 'twitterUrl' | 'facebookUrl' | 'instagramUrl' | 'youtubeUrl' | 'githubUrl' | 'linkedinUrl']: string}
