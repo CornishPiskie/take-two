@@ -34,7 +34,7 @@ export default function Component() {
   const footerMenu = data?.footerMenuItems?.nodes ?? [];
 
   const mainBanner = {
-    sourceUrl: '/static/banner.jpeg',
+    sourceUrl: '/static/bouquets.jpeg',
     mediaDetails: { width: 1200, height: 600 },
     altText: 'Portfolio Banner',
   };

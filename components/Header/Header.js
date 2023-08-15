@@ -32,10 +32,10 @@ export default function Header({ className, menuItems }) {
             <Link href="/">
               <a title="Home">
                 <Image
-                  src="/logo.png"
+                  src="/logokc.png"
                   width={400}
                   height={80}
-                  alt="Blueprint media logo"
+                  alt="Karenza and Chris Logo"
                   layout="responsive"
                 />
               </a>
