@@ -17,9 +17,9 @@ const themes = {
   },
   green: {
     '--color-black': '#000',
-    '--color-primary': '#006600',
-    '--color-secondary': '#006827',
-    '--color-tertiary': '#CCCCCC',
+    '--color-primary': '#9AC791',
+    '--color-secondary': '#9C92B0',
+    '--color-tertiary': '#B0808C',
     '--color-white': '#FFFFFF',
   },
 };
